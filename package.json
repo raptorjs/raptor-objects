@@ -21,7 +21,7 @@
     },
     "license": "Apache License v2.0",
     "bin": {},
-    "main": "lib/objects.js",
+    "main": "lib/raptor-objects.js",
     "publishConfig": {
         "registry": "https://registry.npmjs.org/"
     }
