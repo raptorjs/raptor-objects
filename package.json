@@ -4,7 +4,7 @@
     "description": "Utility functions for working with JavaScript objects",
     "repository": {
         "type": "git",
-        "url": "https://github.com/raptorjs/raptor-objects.git"
+        "url": "https://github.com/raptorjs3/raptor-objects.git"
     },
     "scripts": {
         "test": "node_modules/.bin/mocha --ui bdd --reporter spec ./test && node_modules/.bin/jshint lib"
